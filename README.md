@@ -6,7 +6,7 @@ Utilizamos una placa NodeMCU a la que le podemos conectar diversos dispositivos 
 
 En el siguiente enlace puede ver un vídeo explicativo del proyecto:
 
-* [Vídeo](https://www.youtube.com/watch?v=5wHlHbbFceY)
+* [Vídeo](https://youtu.be/3SWUO8uMxqo)
 
 ## Contenido
 
